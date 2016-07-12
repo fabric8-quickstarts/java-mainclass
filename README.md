@@ -23,7 +23,7 @@ The example can be run locally using the following Maven goal:
     mvn exec:java
 
 
-### Running the example on Kubernetes or OPenShift
+### Running the example on Kubernetes
 
 It is assumed a running Kubernetes platform is already running. If not you can find details how to [get started](http://fabric8.io/guide/getStarted/index.html).
 
