@@ -33,7 +33,7 @@
 
     <!-- dependency versions -->
     <commons-lang3.version>3.4</commons-lang3.version>
-    <fabric8.version>2.2.143</fabric8.version>
+    <fabric8.version>2.2.144</fabric8.version>
 
     <!-- maven plugin versions -->
     <fabric8.maven.plugin.version>3.0.28</fabric8.maven.plugin.version>
