@@ -12,7 +12,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- dependency versions -->
     <commons-lang3.version>3.4</commons-lang3.version>
-    <fabric8.version>2.2.176</fabric8.version>
+    <fabric8.version>2.2.178</fabric8.version>
     <!-- maven plugin versions -->
     <fabric8.maven.plugin.version>3.2.1</fabric8.maven.plugin.version>
     <exec-maven-plugin.version>1.4.0</exec-maven-plugin.version>
